@@ -1,5 +1,5 @@
 Public Repository
 =================
 
-Testing public repositories.
+Testing public repositories in GitHub.
 
