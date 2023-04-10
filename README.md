@@ -1,2 +1,5 @@
-# public-repo
-Testing public repositories
+Public Repository
+=================
+
+Testing public repositories.
+
